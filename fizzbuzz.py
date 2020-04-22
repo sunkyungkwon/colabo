@@ -7,3 +7,5 @@ fbz = ["fizz"*(i%3==0)+"buzz"*(i%5==0)
 ]
 
 print(fbz)
+#for i in range(1, 100+1):
+#	print(i)
